@@ -240,7 +240,7 @@ Device     Boot Start   End Sectors Size Id Type
 PART III:  HOW TO USE MAGISK AND XPOSED
 ========================================
 
- You can find many usage examples from googling, and I think it is beyond the scope
+ You can find many usage examples by googling, and I think it is beyond the scope
  of this document.  :)  In my case, I am using it to  'magiskhide' to trick
  many apps to detect my device's unlock and rooting status. 
  Also, I am using fakeWifi Xposed module for convenience (such as asphalt 8)
