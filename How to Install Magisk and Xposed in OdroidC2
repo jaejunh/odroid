@@ -75,6 +75,8 @@ PART II:  INSTALLATION
    $ sudo su -   
    $ rm -rf /tmp/root
    $ mkdir /tmp/root
+
+   # system.txt located at http://github.com/jaejunh/odroid/system.txt 
    $ rsync -av --exclude-from 'system.txt' /media/john/rootsystem/ /tmp/root  
 
    $ cd /tmp/root
